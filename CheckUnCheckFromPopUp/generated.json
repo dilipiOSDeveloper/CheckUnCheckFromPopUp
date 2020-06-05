@@ -1,0 +1,24 @@
+{
+    "status": true,
+    "message": "Payment status list ",
+    "data": [
+        {
+            "id": "1",
+            "name": "Failed",
+            "status": "0",
+            "ip_address": ""
+        },
+        {
+            "id": "2",
+            "name": "Successful",
+            "status": "1",
+            "ip_address": ""
+        },
+        {
+            "id": "3",
+            "name": "Decline",
+            "status": "2",
+            "ip_address": ""
+        }
+    ]
+}
